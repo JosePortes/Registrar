@@ -1,2 +1,2 @@
-# TP
- Tabla periodica con php
+#Registrar
+Registrar Estudiantes con php
